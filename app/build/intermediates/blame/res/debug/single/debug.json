@@ -1,0 +1,498 @@
+[
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_guest.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\mipmap-anydpi-v26\\guest.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_edit_guest.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\layout\\activity_edit_guest.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_task_foreground.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\mipmap-xxxhdpi\\task_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_homeimg_foreground.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\mipmap-xxxhdpi\\homeimg_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_vendor_foreground.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\mipmap-hdpi\\vendor_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_menu_round.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\mipmap-hdpi\\menu_round.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_guest_round.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\mipmap-xxxhdpi\\guest_round.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_vendor_foreground.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\mipmap-xxhdpi\\vendor_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_cal_foreground.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\mipmap-xxhdpi\\cal_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_summary_background.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\drawable\\summary_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_cal_foreground.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\mipmap-xxxhdpi\\cal_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_menu.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\mipmap-xhdpi\\menu.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_guest.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\mipmap-xhdpi\\guest.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_homeimg_foreground.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\mipmap-xxhdpi\\homeimg_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_menu.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\mipmap-xxxhdpi\\menu.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_summary_foreground.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\mipmap-mdpi\\summary_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_guest.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\mipmap-xxxhdpi\\guest.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_cal_round.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\mipmap-xxhdpi\\cal_round.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_graph.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\layout\\activity_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_menu.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\mipmap-anydpi-v26\\menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_vendor_background.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\drawable\\vendor_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_cal_foreground.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\mipmap-xhdpi\\cal_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_menu_foreground.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\drawable\\menu_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_summary.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\layout\\activity_summary.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_homeimg_foreground.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\mipmap-hdpi\\homeimg_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_cal.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\mipmap-hdpi\\cal.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_home_emu.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\layout\\activity_home_emu.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_menu_round.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\mipmap-mdpi\\menu_round.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_vendor_foreground.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\mipmap-xhdpi\\vendor_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dot_vert_menu.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\drawable\\dot_vert_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_vendor.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\mipmap-anydpi-v26\\vendor.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_task_foreground.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\mipmap-xxhdpi\\task_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_sharp_delete_24.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\drawable\\ic_sharp_delete_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\menu_main_menu.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\menu\\main_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_cal_round.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\mipmap-xhdpi\\cal_round.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_cal_foreground.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\mipmap-mdpi\\cal_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_summary_foreground.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\mipmap-hdpi\\summary_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_back_btn.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\drawable\\back_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_guest.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\mipmap-hdpi\\guest.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_guest_round.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\mipmap-xxhdpi\\guest_round.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_homeimg_foreground.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\mipmap-xhdpi\\homeimg_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_edit_companions.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\layout\\activity_edit_companions.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_event_foreground.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\mipmap-xxxhdpi\\event_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_task_foreground.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\mipmap-mdpi\\task_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_guest_foreground.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\mipmap-xxxhdpi\\guest_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_menu.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\mipmap-hdpi\\menu.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_event.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\mipmap-anydpi-v26\\event.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_guest_round.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\mipmap-xhdpi\\guest_round.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_guest_background.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\drawable\\guest_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\font_regular.otf.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\font\\regular.otf"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_delete_24.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\drawable\\ic_baseline_delete_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_cal_round.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\mipmap-hdpi\\cal_round.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_event_background.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\drawable\\event_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cal_background.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\drawable\\cal_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_homepg.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\layout\\activity_homepg.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_add_guest.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\layout\\activity_add_guest.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_cal_round.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\mipmap-xxxhdpi\\cal_round.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\font_semibold.otf.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\font\\semibold.otf"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_edit_category.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\layout\\activity_edit_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_guest_foreground.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\mipmap-hdpi\\guest_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_add_fab.jpg.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\drawable-v24\\add_fab.jpg"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_summary_foreground.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\mipmap-xxhdpi\\summary_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_add_24.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\drawable\\ic_baseline_add_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_homeimg_background.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\drawable\\homeimg_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_event_foreground.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\mipmap-hdpi\\event_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_vendor_foreground.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\mipmap-mdpi\\vendor_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_store_24.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\drawable\\ic_baseline_store_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_menu.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\mipmap-mdpi\\menu.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_cal.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\mipmap-anydpi-v26\\cal.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_guest.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\mipmap-mdpi\\guest.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_task_foreground.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\mipmap-xhdpi\\task_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_cal_round.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\mipmap-anydpi-v26\\cal_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_summary_foreground.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\mipmap-xhdpi\\summary_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_menu_round.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\mipmap-xhdpi\\menu_round.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_menu_round.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\mipmap-xxxhdpi\\menu_round.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_homeimg.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\mipmap-anydpi-v26\\homeimg.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_cal.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\mipmap-xhdpi\\cal.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_cal.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\mipmap-xxhdpi\\cal.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_add_companions.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\layout\\activity_add_companions.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_cal_foreground.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\mipmap-hdpi\\cal_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_perm_contact_calendar_24.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\drawable\\ic_baseline_perm_contact_calendar_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_cal.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\mipmap-mdpi\\cal.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\layout_guest_itemview.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\layout\\guest_itemview.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_task.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\mipmap-anydpi-v26\\task.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_guest.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\mipmap-xxhdpi\\guest.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_view_guest.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\layout\\activity_view_guest.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_summary.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\mipmap-anydpi-v26\\summary.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_guest_foreground.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\mipmap-mdpi\\guest_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_task_background.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\drawable\\task_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_menu_round.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\mipmap-xxhdpi\\menu_round.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_cal_round.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\mipmap-mdpi\\cal_round.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_event_foreground.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\mipmap-xhdpi\\event_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_number_standard.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\layout\\activity_number_standard.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_menu.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\mipmap-xxhdpi\\menu.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_menu_round.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\mipmap-anydpi-v26\\menu_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_event_foreground.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\mipmap-mdpi\\event_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_more_vert_24.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\drawable\\ic_baseline_more_vert_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_guest_round.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\mipmap-hdpi\\guest_round.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_vendor_foreground.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\mipmap-xxxhdpi\\vendor_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_summary_foreground.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\mipmap-xxxhdpi\\summary_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_task_foreground.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\mipmap-hdpi\\task_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_guest_foreground.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\mipmap-xhdpi\\guest_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_cal.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\mipmap-xxxhdpi\\cal.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_guest_foreground.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\mipmap-xxhdpi\\guest_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_event_foreground.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\mipmap-xxhdpi\\event_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_app_settings.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\layout\\activity_app_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_guest_round.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\mipmap-mdpi\\guest_round.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_guest_round.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\mipmap-anydpi-v26\\guest_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\font_splash.otf.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\font\\splash.otf"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_homeimg_foreground.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\event-planner\\app\\src\\main\\res\\mipmap-mdpi\\homeimg_foreground.png"
+    }
+]

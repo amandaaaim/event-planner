@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.testapplication"
+    android:targetSandboxVersion="2"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="21"
+        android:targetSdkVersion="30" />
+
+    <application
+        android:allowBackup="true"
+        android:debuggable="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="Budget"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
+        <activity android:name="com.example.testapplication.EditCompanions" />
+        <activity android:name="com.example.testapplication.AddCompanions" />
+        <activity android:name="com.example.testapplication.ViewGuest" />
+        <activity android:name="com.example.testapplication.Summary" />
+        <activity android:name="com.example.testapplication.homepg" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.example.testapplication.EditGuest" />
+        <activity android:name="com.example.testapplication.AddGuest" />
+        <activity android:name="com.example.testapplication.NumberStandardActivity" />
+        <activity android:name="com.example.testapplication.AppSettingsActivity" />
+        <activity android:name="com.example.testapplication.MainActivityEmu" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <!-- android:theme="@style/AppTheme"> -->
+    </application>
+
+</manifest>

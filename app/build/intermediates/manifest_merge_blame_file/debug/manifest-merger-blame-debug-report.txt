@@ -1,0 +1,83 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.testapplication"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Users\user\AndroidStudioProjects\event-planner\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->C:\Users\user\AndroidStudioProjects\event-planner\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->C:\Users\user\AndroidStudioProjects\event-planner\app\src\main\AndroidManifest.xml:6:5-39:19
+12        android:allowBackup="true"
+12-->C:\Users\user\AndroidStudioProjects\event-planner\app\src\main\AndroidManifest.xml:7:9-35
+13        android:debuggable="true"
+14        android:icon="@mipmap/ic_launcher"
+14-->C:\Users\user\AndroidStudioProjects\event-planner\app\src\main\AndroidManifest.xml:8:9-43
+15        android:label="Budget"
+15-->C:\Users\user\AndroidStudioProjects\event-planner\app\src\main\AndroidManifest.xml:9:9-31
+16        android:roundIcon="@mipmap/ic_launcher_round"
+16-->C:\Users\user\AndroidStudioProjects\event-planner\app\src\main\AndroidManifest.xml:10:9-54
+17        android:supportsRtl="true"
+17-->C:\Users\user\AndroidStudioProjects\event-planner\app\src\main\AndroidManifest.xml:11:9-35
+18        android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
+18-->C:\Users\user\AndroidStudioProjects\event-planner\app\src\main\AndroidManifest.xml:12:9-65
+19        <activity android:name="com.example.testapplication.EditCompanions" />
+19-->C:\Users\user\AndroidStudioProjects\event-planner\app\src\main\AndroidManifest.xml:14:9-51
+19-->C:\Users\user\AndroidStudioProjects\event-planner\app\src\main\AndroidManifest.xml:14:19-49
+20        <activity android:name="com.example.testapplication.AddCompanions" />
+20-->C:\Users\user\AndroidStudioProjects\event-planner\app\src\main\AndroidManifest.xml:15:9-51
+20-->C:\Users\user\AndroidStudioProjects\event-planner\app\src\main\AndroidManifest.xml:15:19-48
+21        <activity android:name="com.example.testapplication.ViewGuest" />
+21-->C:\Users\user\AndroidStudioProjects\event-planner\app\src\main\AndroidManifest.xml:16:9-47
+21-->C:\Users\user\AndroidStudioProjects\event-planner\app\src\main\AndroidManifest.xml:16:19-44
+22        <activity android:name="com.example.testapplication.Summary" />
+22-->C:\Users\user\AndroidStudioProjects\event-planner\app\src\main\AndroidManifest.xml:17:9-45
+22-->C:\Users\user\AndroidStudioProjects\event-planner\app\src\main\AndroidManifest.xml:17:19-42
+23        <activity android:name="com.example.testapplication.homepg" >
+23-->C:\Users\user\AndroidStudioProjects\event-planner\app\src\main\AndroidManifest.xml:18:9-24:20
+23-->C:\Users\user\AndroidStudioProjects\event-planner\app\src\main\AndroidManifest.xml:18:19-41
+24            <intent-filter>
+24-->C:\Users\user\AndroidStudioProjects\event-planner\app\src\main\AndroidManifest.xml:19:13-23:29
+25                <action android:name="android.intent.action.MAIN" />
+25-->C:\Users\user\AndroidStudioProjects\event-planner\app\src\main\AndroidManifest.xml:20:17-69
+25-->C:\Users\user\AndroidStudioProjects\event-planner\app\src\main\AndroidManifest.xml:20:25-66
+26
+27                <category android:name="android.intent.category.LAUNCHER" />
+27-->C:\Users\user\AndroidStudioProjects\event-planner\app\src\main\AndroidManifest.xml:22:17-77
+27-->C:\Users\user\AndroidStudioProjects\event-planner\app\src\main\AndroidManifest.xml:22:27-74
+28            </intent-filter>
+29        </activity>
+30        <activity android:name="com.example.testapplication.EditGuest" />
+30-->C:\Users\user\AndroidStudioProjects\event-planner\app\src\main\AndroidManifest.xml:25:9-47
+30-->C:\Users\user\AndroidStudioProjects\event-planner\app\src\main\AndroidManifest.xml:25:19-44
+31        <activity android:name="com.example.testapplication.AddGuest" />
+31-->C:\Users\user\AndroidStudioProjects\event-planner\app\src\main\AndroidManifest.xml:26:9-45
+31-->C:\Users\user\AndroidStudioProjects\event-planner\app\src\main\AndroidManifest.xml:26:19-43
+32        <activity android:name="com.example.testapplication.NumberStandardActivity" />
+32-->C:\Users\user\AndroidStudioProjects\event-planner\app\src\main\AndroidManifest.xml:28:9-59
+32-->C:\Users\user\AndroidStudioProjects\event-planner\app\src\main\AndroidManifest.xml:28:19-57
+33        <activity android:name="com.example.testapplication.AppSettingsActivity" />
+33-->C:\Users\user\AndroidStudioProjects\event-planner\app\src\main\AndroidManifest.xml:30:9-57
+33-->C:\Users\user\AndroidStudioProjects\event-planner\app\src\main\AndroidManifest.xml:30:19-54
+34        <activity android:name="com.example.testapplication.MainActivityEmu" >
+34-->C:\Users\user\AndroidStudioProjects\event-planner\app\src\main\AndroidManifest.xml:31:9-37:20
+34-->C:\Users\user\AndroidStudioProjects\event-planner\app\src\main\AndroidManifest.xml:31:19-50
+35            <intent-filter>
+35-->C:\Users\user\AndroidStudioProjects\event-planner\app\src\main\AndroidManifest.xml:19:13-23:29
+36                <action android:name="android.intent.action.MAIN" />
+36-->C:\Users\user\AndroidStudioProjects\event-planner\app\src\main\AndroidManifest.xml:20:17-69
+36-->C:\Users\user\AndroidStudioProjects\event-planner\app\src\main\AndroidManifest.xml:20:25-66
+37
+38                <category android:name="android.intent.category.LAUNCHER" />
+38-->C:\Users\user\AndroidStudioProjects\event-planner\app\src\main\AndroidManifest.xml:22:17-77
+38-->C:\Users\user\AndroidStudioProjects\event-planner\app\src\main\AndroidManifest.xml:22:27-74
+39            </intent-filter>
+40        </activity>
+41        <!-- android:theme="@style/AppTheme"> -->
+42    </application>
+43
+44</manifest>
