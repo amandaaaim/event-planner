@@ -7,8 +7,52 @@
     tools:context=".Summary">
 
     <TextView
-        android:id="@+id/textView44"
-        android:layout_width="wrap_content"
+        android:id="@+id/tot_gue"
+        android:layout_width="31dp"
+        android:layout_height="25dp"
+        android:text="0"
+        android:textColor="@android:color/black"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.872"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.335" />
+
+    <TextView
+        android:id="@+id/tot_tas"
+        android:layout_width="31dp"
+        android:layout_height="25dp"
+        android:text="0"
+        android:textColor="@android:color/black"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.873"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.116" />
+
+    <TextView
+        android:id="@+id/tot_task2"
+        android:layout_width="50dp"
+        android:layout_height="23dp"
+        android:text="@string/total"
+        android:textColor="@color/black"
+        android:textSize="18sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.753"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.336" />
+
+    <TextView
+        android:id="@+id/sum_vpaid"
+        android:layout_width="31dp"
         android:layout_height="wrap_content"
         android:text="0"
         android:textColor="@android:color/black"
@@ -22,8 +66,8 @@
         app:layout_constraintVertical_bias="0.922" />
 
     <TextView
-        android:id="@+id/textView43"
-        android:layout_width="wrap_content"
+        android:id="@+id/sum_vpen"
+        android:layout_width="31dp"
         android:layout_height="wrap_content"
         android:text="0"
         android:textColor="@android:color/black"
@@ -37,8 +81,8 @@
         app:layout_constraintVertical_bias="0.864" />
 
     <TextView
-        android:id="@+id/textView42"
-        android:layout_width="wrap_content"
+        android:id="@+id/sum_bpaid"
+        android:layout_width="31dp"
         android:layout_height="wrap_content"
         android:text="0"
         android:textColor="@android:color/black"
@@ -49,11 +93,11 @@
         app:layout_constraintHorizontal_bias="0.633"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.681" />
+        app:layout_constraintVertical_bias="0.697" />
 
     <TextView
-        android:id="@+id/textView41"
-        android:layout_width="wrap_content"
+        android:id="@+id/sum_sent"
+        android:layout_width="31dp"
         android:layout_height="wrap_content"
         android:text="0"
         android:textColor="@android:color/black"
@@ -67,8 +111,8 @@
         app:layout_constraintVertical_bias="0.472" />
 
     <TextView
-        android:id="@+id/textView40"
-        android:layout_width="wrap_content"
+        android:id="@+id/sum_nsent"
+        android:layout_width="31dp"
         android:layout_height="wrap_content"
         android:text="0"
         android:textColor="@android:color/black"
@@ -82,56 +126,53 @@
         app:layout_constraintVertical_bias="0.414" />
 
     <ImageView
-        android:id="@+id/imageView7"
+        android:id="@+id/ivGuest"
         android:layout_width="55dp"
         android:layout_height="65dp"
         android:layout_marginEnd="18dp"
-        android:layout_marginRight="18dp"
-        android:background="@android:color/holo_orange_dark"
+        android:background="@color/purple"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.128"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/divider6"
         app:layout_constraintVertical_bias="0.047"
-        app:srcCompat="@android:drawable/ic_menu_my_calendar" />
+        app:srcCompat="@mipmap/guest_foreground" />
 
     <ImageView
-        android:id="@+id/imageView5"
+        android:id="@+id/ivTask"
         android:layout_width="55dp"
         android:layout_height="65dp"
         android:layout_marginEnd="17dp"
-        android:layout_marginRight="17dp"
-        android:background="@android:color/holo_orange_dark"
+        android:background="@color/purple"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.127"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.204"
-        app:srcCompat="@android:drawable/ic_menu_edit" />
+        app:srcCompat="@mipmap/task_foreground" />
 
     <ImageView
-        android:id="@+id/imageView6"
+        android:id="@+id/ivPay"
         android:layout_width="55dp"
         android:layout_height="65dp"
         android:layout_marginEnd="18dp"
-        android:layout_marginRight="18dp"
-        android:background="@android:color/holo_orange_dark"
+        android:background="@color/purple"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.127"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/divider7"
         app:layout_constraintVertical_bias="0.765"
-        app:srcCompat="@android:drawable/ic_menu_today" />
+        app:srcCompat="@mipmap/vendor_foreground" />
 
     <TextView
-        android:id="@+id/textView23"
+        android:id="@+id/tv_bpen"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="15dp"
-        android:text="Pending :"
+        android:text="@string/pending_sum"
         android:textColor="@android:color/holo_red_dark"
         android:textSize="18sp"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -142,24 +183,24 @@
         app:layout_constraintVertical_bias="0.631" />
 
     <TextView
-        android:id="@+id/textView22"
+        android:id="@+id/tv_gnotsent"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Not Sent :"
+        android:text="@string/notsent"
         android:textColor="@android:color/holo_red_dark"
         android:textSize="18sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.372"
+        app:layout_constraintHorizontal_bias="0.354"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.414" />
 
     <TextView
-        android:id="@+id/textView21"
+        android:id="@+id/tv_tcom"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Completed :"
+        android:text="@string/compl_sum"
         android:textColor="@android:color/holo_green_dark"
         android:textSize="18sp"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -170,13 +211,12 @@
         app:layout_constraintVertical_bias="0.25" />
 
     <TextView
-        android:id="@+id/textView20"
+        android:id="@+id/tv_bpay"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="1dp"
-        android:layout_marginLeft="1dp"
         android:layout_marginTop="24dp"
-        android:text="Paid :"
+        android:text="@string/paid_sum"
         android:textColor="@android:color/holo_green_dark"
         android:textSize="18sp"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -187,10 +227,10 @@
         app:layout_constraintVertical_bias="0.686" />
 
     <TextView
-        android:id="@+id/textView19"
+        android:id="@+id/tv_tpen"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Pending :"
+        android:text="@string/pending_sum"
         android:textColor="@android:color/holo_red_dark"
         android:textSize="18sp"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -201,11 +241,11 @@
         app:layout_constraintVertical_bias="0.192" />
 
     <TextView
-        android:id="@+id/textView18"
+        android:id="@+id/tv_vpen"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="15dp"
-        android:text="Pending :"
+        android:text="@string/pending_sum"
         android:textColor="@android:color/holo_red_dark"
         android:textSize="18sp"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -246,11 +286,11 @@
         app:layout_constraintVertical_bias="0.373" />
 
     <TextView
-        android:id="@+id/textView17"
+        android:id="@+id/tv_sven"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Vendor Payments"
-        android:textColor="@android:color/holo_orange_dark"
+        android:textColor="@color/purple"
         android:textSize="24sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -260,12 +300,12 @@
         app:layout_constraintVertical_bias="0.788" />
 
     <TextView
-        android:id="@+id/textView16"
+        android:id="@+id/tv_sbud"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginBottom="11dp"
         android:text="Budget Payments"
-        android:textColor="@android:color/holo_orange_dark"
+        android:textColor="@color/purple"
         android:textSize="24sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -287,26 +327,26 @@
         app:layout_constraintVertical_bias="0.81" />
 
     <TextView
-        android:id="@+id/textView15"
+        android:id="@+id/tv_sgue"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginBottom="80dp"
         android:text="@string/textView_guest_invi"
-        android:textColor="@android:color/holo_orange_dark"
+        android:textColor="@color/purple"
         android:textSize="24sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.065"
+        app:layout_constraintHorizontal_bias="0.055"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.376" />
+        app:layout_constraintVertical_bias="0.369" />
 
     <TextView
-        android:id="@+id/textView12"
+        android:id="@+id/tv_vpaid"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="16dp"
-        android:text="Paid :"
+        android:text="@string/paid_sum"
         android:textColor="@android:color/holo_green_dark"
         android:textSize="18sp"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -323,7 +363,7 @@
         android:layout_marginStart="1dp"
         android:layout_marginEnd="1dp"
         android:layout_marginBottom="16dp"
-        android:background="@android:color/holo_orange_dark"
+        android:background="@color/purple"
         android:minHeight="?attr/actionBarSize"
         android:theme="?attr/actionBarTheme"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -337,11 +377,11 @@
         app:titleTextColor="@color/design_default_color_background" />
 
     <TextView
-        android:id="@+id/textView9"
+        android:id="@+id/tv_stask"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/textView_taskguest"
-        android:textColor="@android:color/holo_orange_dark"
+        android:textColor="@color/purple"
         android:textSize="24sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -351,18 +391,18 @@
         app:layout_constraintVertical_bias="0.024" />
 
     <TextView
-        android:id="@+id/textView11"
+        android:id="@+id/tv_gsent"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Sent :"
+        android:text="@string/sent"
         android:textColor="@android:color/holo_green_dark"
         android:textSize="18sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.338"
+        app:layout_constraintHorizontal_bias="0.322"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="@+id/imageView7"
-        app:layout_constraintVertical_bias="0.099" />
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.472" />
 
     <View
         android:id="@+id/divider4"
@@ -381,24 +421,23 @@
         app:layout_constraintVertical_bias="0.157" />
 
     <ImageView
-        android:id="@+id/imageView4"
+        android:id="@+id/ivBud"
         android:layout_width="55dp"
         android:layout_height="65dp"
         android:layout_marginEnd="20dp"
-        android:layout_marginRight="20dp"
-        android:background="@android:color/holo_orange_dark"
+        android:background="@color/purple"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.127"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.678"
-        app:srcCompat="@android:drawable/ic_menu_add" />
+        app:srcCompat="@mipmap/cal_foreground" />
 
     <TextView
-        android:id="@+id/textView37"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:id="@+id/sum_tpen"
+        android:layout_width="31dp"
+        android:layout_height="24dp"
         android:text="0"
         android:textColor="@android:color/black"
         android:textSize="18sp"
@@ -411,8 +450,8 @@
         app:layout_constraintVertical_bias="0.192" />
 
     <TextView
-        android:id="@+id/textView38"
-        android:layout_width="wrap_content"
+        android:id="@+id/sum_bpen"
+        android:layout_width="31dp"
         android:layout_height="wrap_content"
         android:text="0"
         android:textColor="@android:color/black"
@@ -423,12 +462,12 @@
         app:layout_constraintHorizontal_bias="0.633"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.625" />
+        app:layout_constraintVertical_bias="0.639" />
 
     <TextView
-        android:id="@+id/textView39"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:id="@+id/sum_tpaid"
+        android:layout_width="31dp"
+        android:layout_height="25dp"
         android:text="0"
         android:textColor="@android:color/black"
         android:textSize="18sp"
@@ -439,5 +478,19 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.25" />
+
+    <TextView
+        android:id="@+id/tot_task"
+        android:layout_width="50dp"
+        android:layout_height="23dp"
+        android:text="@string/total"
+        android:textColor="@color/black"
+        android:textSize="18sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.753"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.115" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
