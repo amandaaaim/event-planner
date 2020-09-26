@@ -28,7 +28,9 @@
         app:srcCompat="@mipmap/cal_foreground" />
 
     <TextView
-        android:id="@+id/tv_g"
+
+        android:id="@+id/textView10_budget"
+
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="bottom|center"
@@ -59,7 +61,8 @@
         app:srcCompat="@mipmap/vendor_foreground" />
 
     <TextView
-        android:id="@+id/tv_g"
+
+        android:id="@+id/textView10_vendors"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="bottom|center"
@@ -90,7 +93,8 @@
         app:srcCompat="@mipmap/event_foreground" />
 
     <TextView
-        android:id="@+id/tv_g"
+
+        android:id="@+id/textView10_events"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="bottom|center"
@@ -115,14 +119,15 @@
       app:layout_constraintVertical_bias="0.372">
 
     <ImageView
-        android:id="@+id/imageView10"
+        android:id="@+id/imageView10_img"
         android:layout_width="match_parent"
         android:layout_height="88dp"
         android:background="@color/design_default_color_error"
         app:srcCompat="@mipmap/guest_foreground" />
 
     <TextView
-        android:id="@+id/tv_g"
+
+        android:id="@+id/textView10_guests"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="bottom|center"
@@ -155,7 +160,8 @@
         app:srcCompat="@mipmap/task_foreground" />
 
     <TextView
-        android:id="@+id/tv_g"
+
+        android:id="@+id/textView10_tasks"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="bottom|center"
@@ -187,7 +193,9 @@
         app:srcCompat="@mipmap/summary_foreground" />
 
     <TextView
-        android:id="@+id/tv_g"
+
+        android:id="@+id/textView10_summary"
+
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="bottom|center"
@@ -264,4 +272,6 @@
       app:layout_constraintVertical_bias="0.0" />
 
 
+
 </androidx.constraintlayout.widget.ConstraintLayout>
+

@@ -10,14 +10,10 @@ import android.widget.TextView;
 
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.example.testapplication.AddBudgetActivity;
-import com.example.testapplication.AddGuest;
 import com.example.testapplication.EditGuest;
 import com.example.testapplication.R;
-import com.example.testapplication.ViewGuest;
-import com.example.testapplication.db.budget.Budget_Impl;
+
 import com.example.testapplication.db.guest.Guest_Impl;
-import com.example.testapplication.db.guest.IGuest;
 
 public class GuestViewHolder extends RecyclerView.ViewHolder implements View.OnClickListener {
 
